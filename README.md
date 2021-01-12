@@ -1,10 +1,10 @@
-<h1 style="text-align: center; padding: 1em">
+<h1 align="center">
 
 **Welcome to my github profile** 
 
 </h1>
 
-<div style="text-align: center; padding: 1em">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/hassan-shahid0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://muhashh.github.io/"><img src="https://img.shields.io/badge/-personal%20website-00B9D6?style=for-the-badge&logo=Google-Chrome&logoColor=white" height=25></a>
@@ -12,7 +12,7 @@
 </div>
 
 
-<div style="text-align: center; padding-bottom: 2em; padding-top: 1em;">
+<div align="center">
 
 ## 🖥️ Projects on here 🖥️
 
