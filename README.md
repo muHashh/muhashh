@@ -13,12 +13,9 @@
 
 ## 🧑🏽 About Me 🧑🏽
 
-&nbsp;
-
-Masters student at the UofG. Interested in all things tech.
+Masters student at the UofG. Interested in all things tech. All the way from low-level drivers to web apps. Most profecient in Python, C, Java, C++, and Type/JavaScript.
 
 </div>
-
 
 &nbsp;
 
@@ -27,8 +24,6 @@ Masters student at the UofG. Interested in all things tech.
 ## 🖥️ Projects on here 🖥️
 
 </div>
-
-&nbsp;
 
 - 📱 Android (Lineage, etc.) OS [device trees](https://github.com/muHashh/android_device_samsung_universal8895-common/tree/lineage-17.1-old) for the Samsung S8/S8+ & Note 8.
 
